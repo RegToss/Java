@@ -1,5 +1,10 @@
 package runmain;
 
+/**
+ * 库存
+ * @author xq
+ *
+ */
 public class Storage {
 	// 最大 库存量
 	private static final int MAX_SIZE = 100;
